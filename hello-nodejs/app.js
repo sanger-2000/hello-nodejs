@@ -1,2 +1,2 @@
-//This is just to sow the changes
+//This is just to some the changes
 console.log("Hello World!\n");
